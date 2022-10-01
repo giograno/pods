@@ -1,0 +1,3 @@
+pods:
+- location: ./pod1.zip
+  name: pod1
