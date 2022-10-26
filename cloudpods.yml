@@ -1,3 +1,5 @@
 pods:
+- location: ./pod.zip
+  name: community_pod
 - location: ./pod1.zip
   name: pod1
